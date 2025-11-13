@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Content Tags in HTML</title>
+</head>
+<body>
+
+    <!-- Headings -->
+    <h1>My University: Bayero University Kano</h1>
+    <h2>Faculty of Computing</h2>
+    <h3>Course Title: Web Programming Fundamentals</h3>
+    <h4>Topic: HTML Text Formatting</h4>
+    <h5>Student Class: IT Siwes 2025</h5>
+    <h6>Instructor: Mr. Nibrasudeen Kamal</h6>
+
+    <hr>
+
+    <!-- Paragraph -->
+    <p>My favorite topic is <b>web design</b> because it allows me to build 
+        <i>creative and interactive</i> websites. 
+        I, <u>Ahmad Rabiu</u>, enjoy exploring how design and coding come together to form the web we use every day.</p>
+
+    <!-- Strong & Emphasized text -->
+    <p>It is <strong>very important</strong> to understand the structure of a webpage. 
+    You should <em>practice writing HTML daily</em> to master it quickly.</p>
+
+    <!-- Marked, Small, Deleted, and Inserted text -->
+    <p>Today's lesson focuses on <mark>HTML text formatting tags</mark>.</p>
+    <p><small>Tip: Always use indentation to make your code neat and readable.</small></p>
+    <p>We no longer use <del>old HTML styling like &lt;font&gt;</del> 
+       but prefer <ins>modern CSS styling</ins> for better design control.</p>
+
+    <!-- Subscript and Superscript -->
+    <p>Chemical formula for water: H<sub>2</sub>O</p>
+    <p>Mathematical formula: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
+
+    <!-- Blockquote and Quote -->
+    <blockquote>"The future belongs to those who prepare for it today." – Malcolm X</blockquote>
+    <p>As they often say, <q>knowledge is power</q>.</p>
+
+    <!-- Abbreviation and Citation -->
+    <p>I am currently learning <abbr title="Cascading Style Sheets">CSS</abbr> and 
+       <abbr title="JavaScript">JS</abbr> alongside HTML to enhance my web skills.</p>
+    <p>This statement was inspired by <cite>Malcolm X’s Educational Speech</cite>.</p>
+
+    <!-- Code and Preformatted text -->
+    <p>Example of code snippet:</p>
+    <code>console.log("Welcome to Web Development!");</code>
+
+    <p>Example of preformatted text (short poem):</p>
+    <pre>
+Code by day,
+Dream by night,
+Building websites
+That shine so bright.
+    </pre>
+
+</body>
+</html>
