@@ -1,0 +1,7 @@
+let age = 17;
+
+if (age >= 18) {
+    console.log("You are eligible to Enter the club.");
+} else {
+    console.log("You are not eligible enter the club.");
+}
